@@ -1,3 +1,3 @@
 spring-time
 ===========
-README text here.
+A spring themed color scheme for DrRacket.
